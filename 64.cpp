@@ -1,0 +1,5 @@
+/*
+it depends upon the type of linked list wheather it is a single linked list or its a double linked list.
+it is not possible to rever a single linked list in less than on time cause firstly you have to traverse the list to reach at the end of linked list so in the case of single linked list it is not possible to do so..
+but in the case of double linked list you can do reversing the linked list just by making the head to tail and u will have the reversed linked list...
+*/
