@@ -1,7 +1,7 @@
 
 
 // reversing the linked list
-//heya
+//heya....
 #include <iostream>
 using namespace std;
 struct node
