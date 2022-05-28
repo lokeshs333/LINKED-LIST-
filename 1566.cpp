@@ -1,4 +1,4 @@
-// chexk wheather the linked list is palindrome or not
+// chexk wheather the linked list is palindrome or not......
 
 #include <iostream>
 using namespace std;
