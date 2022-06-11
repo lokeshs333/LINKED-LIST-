@@ -1,4 +1,4 @@
-// segregate even and odd in a linked list
+// segregate even and odd in a linked list.....
 
 #include <iostream>
 using namespace std;
