@@ -1,4 +1,4 @@
-// check if a linked list is a circular linked list or not;
+// check if a linked list is a circular linked list or not;..
 
 #include <iostream>
 using namespace std;
