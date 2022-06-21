@@ -1,4 +1,4 @@
-// rotate double linked list by k nodes..
+// rotate double linked list by k nodes....
 
 #include <iostream>
 using namespace std;
