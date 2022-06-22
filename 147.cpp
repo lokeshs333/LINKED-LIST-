@@ -1,4 +1,4 @@
-// add one to a number at the last of a linked list
+// add one to a number at the last of a linked list..
 
 #include <iostream>
 using namespace std;
