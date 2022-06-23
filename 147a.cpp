@@ -83,7 +83,7 @@ int main()
     cout << "lokesh pandey ache ho app" << endl;
     // node *a = reverse(head);
     // struct node *b = reverse(head);
-    // traversal(b);
+    // traversal(b);..
     struct node *a = addone(head);
     traversal(a);
 
