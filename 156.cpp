@@ -1,6 +1,6 @@
 // check if a linked list is a circular linked list or not;
 
-// done in first time only
+// done in first time only..
 
 #include <iostream>
 using namespace std;
