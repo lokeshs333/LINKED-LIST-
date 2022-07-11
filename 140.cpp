@@ -1,4 +1,4 @@
-// reverse a linked list in group of given size
+// reverse a linked list in group of given size..
 #include <iostream>
 using namespace std;
 struct node
