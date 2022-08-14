@@ -1,4 +1,4 @@
-// remove duplicates from an sorted linked list
+// remove duplicates from an sorted linked list..
 #include <iostream>
 using namespace std;
 struct node
